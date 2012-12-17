@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>$1</title>
+	<link rel="stylesheet" href="$2">
+</head>
+<body>
+	$0
+</body>
+</html>
+]]></content>
+	<tabTrigger>html</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

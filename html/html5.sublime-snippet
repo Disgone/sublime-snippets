@@ -1,17 +1,21 @@
 <snippet>
 	<content><![CDATA[
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>$1</title>
-	<link rel="stylesheet" href="$2">
+    <meta name="description" content="$2">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="$3">
 </head>
 <body>
-	$0
+	$4
 </body>
 </html>
 ]]></content>
 	<tabTrigger>html5</tabTrigger>
+    <description>Inserts HTML5 skeleton.</description>
 	<scope>text.html</scope>
 </snippet>

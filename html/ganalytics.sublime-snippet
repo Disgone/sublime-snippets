@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<script>
+    (function(e,t,n,r,i){e.GoogleAnalyticsObject=n;e[n]||(e[n]=function(){(e[n].q=e[n].q||[]).push(arguments)});
+    e[n].l=+(new Date);i=t.getElementsByTagName("script")[0];r=t.createElement("script");r.src="//www.google-analytics.com/analytics.js";
+    i.parentNode.insertBefore(r,i)})(window,document,"ga");ga("create","UA-${1:XXXXX-X}");ga("send","pageview");
+</script>
+]]></content>
+    <tabTrigger>ganalytics</tabTrigger>
+    <description>Inserts Google Analytics Tracker Code</description>
+    <scope>text.html</scope>
+</snippet>

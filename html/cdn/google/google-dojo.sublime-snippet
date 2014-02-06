@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<script src="//ajax.googleapis.com/ajax/libs/dojo/${1:1.9.2}/dojo/dojo.js"></script>
+]]></content>
+    <tabTrigger>goog:dojo</tabTrigger>
+    <description>Includes Dojo from Google's CDN</description>
+    <scope>text.html</scope>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/${1:1.2.10}/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/${1:1.2.17}/angular.min.js"></script>
 ]]></content>
     <tabTrigger>goog:angular</tabTrigger>
     <description>Includes AngularJS from Google's CDN</description>

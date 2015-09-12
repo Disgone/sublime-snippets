@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 <!-- For a list of themes avaialble check http://blog.jqueryui.com/2014/01/jquery-ui-1-10-4 -->
-<link href="//ajax.aspnetcdn.com/ajax/jquery.ui/${1:1.11.4}/themes/${2:redmond}/jquery-ui.min.css" rel="stylesheet">
-<script src="//ajax.aspnetcdn.com/ajax/jquery.ui/${1:1.11.4}jquery-ui.min.js"></script>
+<link href="https://ajax.aspnetcdn.com/ajax/jquery.ui/${1:1.11.4}/themes/${2:redmond}/jquery-ui.min.css" rel="stylesheet">
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/${1:1.11.4}jquery-ui.min.js"></script>
 ]]></content>
     <tabTrigger>msft:jqueryui</tabTrigger>
     <description>Includes jQuery UI from Microsoft's CDN</description>

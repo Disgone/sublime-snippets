@@ -5,5 +5,5 @@
 ]]></content>
     <tabTrigger>cdn:bs</tabTrigger>
     <description>Includes Twitter Bootstrap</description>
-    <scope>text.html</scope>
+    <scope>text.html,text.html,text.cshtml,text.php</scope>
 </snippet>
